@@ -2,7 +2,7 @@
 
 Another Paper 1.12.2 fork with some performance enhancements, bug fixes, and improvements.
 
-## Support limitation
+## Support limitationa
 
 I created this fork for myself and I use it on my server.
 Therefore, it is of little importance to me if it lacks certain features that others may require.
